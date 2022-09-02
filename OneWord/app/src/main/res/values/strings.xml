@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OneWord</string>
+    <string name="button_action_to_translate_fragment">Перевести</string>
+    <string name="button_action_to_safe_fragment">Все слова</string>
+    <string name="button_safe_words">Сохранить</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Мои слова</string>
+    <string name="tab_text_2">Тренировка</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="edit_text">Введите одно слово</string>
+    <string name="delete_text">Удалить все слова</string>
+    <string name="lang_en_ru">Удалить все слова</string>
+
+
+</resources>
